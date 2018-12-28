@@ -29,8 +29,8 @@ class BotWorker {
         rb = new Robot();
         
         authorization = new Authorization();
-        authorization.setLogin("selutin991");
-        authorization.setPassword("75297529S");
+        authorization.setLogin("");
+        authorization.setPassword("");
         
         //Set login
         Controllers.copyStringToClipboard(authorization.getLogin());
