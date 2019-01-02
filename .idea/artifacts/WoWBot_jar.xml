@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WoWBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WoWBot_jar</output-path>
+    <root id="archive" name="WoWBot.jar">
+      <element id="module-output" name="WoWBot" />
+    </root>
+  </artifact>
+</component>
